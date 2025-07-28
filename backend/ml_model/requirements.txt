@@ -1,0 +1,11 @@
+opencv-python
+numpy
+Pillow
+scikit-learn
+matplotlib
+seaborn
+pandas
+joblib
+tensorflow
+kagglehub
+requests 
